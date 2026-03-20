@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5500&pause=1000&color=21F7E8&center=true&vCenter=true&width=460&lines=Front-End+Developer;Building+across+the+stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5500&pause=1000&color=21F7E8&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Building+across+the+stack" />
 </p>
 
 <p align="center">
