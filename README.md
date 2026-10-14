@@ -1,13 +1,13 @@
 <div align="center">
   <img 
-    src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg"
+    src="https://raw.githubusercontent.com/Mari-codes/mari-codes/main/assets/banners/mariana-static.svg"
     alt="Mariana Borges"
     width="210">
 </div>
 
 <div align="center">
   <img 
-    src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mari-avatar.png" 
+    src="https://raw.githubusercontent.com/Mari-codes/mari-codes/main/assets/banners/mari-avatar.png"
     alt="Mari Codes Avatar" 
     width="260"/>
 </div>
